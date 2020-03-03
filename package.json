@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noamsauerutley/batch-tracker-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noamsauerutley/batch-tracker-back/issues"
+  },
+  "homepage": "https://github.com/noamsauerutley/batch-tracker-back#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
